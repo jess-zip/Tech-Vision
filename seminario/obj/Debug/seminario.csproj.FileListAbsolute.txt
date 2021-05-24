@@ -23,3 +23,17 @@ D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.exe
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.pdb
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.Form_Alex.resources
+C:\Users\jessi\Desktop\seminario\seminario\bin\Debug\seminario.exe.config
+C:\Users\jessi\Desktop\seminario\seminario\bin\Debug\seminario.exe
+C:\Users\jessi\Desktop\seminario\seminario\bin\Debug\seminario.pdb
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.csprojAssemblyReference.cache
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.Form1.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.Form_Alex.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.Form2.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.Form3.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.miopia.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.Properties.Resources.resources
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.csproj.GenerateResource.cache
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.exe
+C:\Users\jessi\Desktop\seminario\seminario\obj\Debug\seminario.pdb

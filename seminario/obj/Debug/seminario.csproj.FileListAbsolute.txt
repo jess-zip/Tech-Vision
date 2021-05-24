@@ -23,3 +23,4 @@ D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.exe
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.pdb
 D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.Form_Alex.resources
+D:\UAA\8vo_Semestre\Seminario_Sistemas_Computacionales\Proyecto\Avance2_proyecto\seminario\seminario\obj\Debug\seminario.miopia.resources
